@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1>A Heading</h1>
-    <p>A paragraph with some text</p>
-  </body>
-</html>
+
 
 We used in this work world bank's international debt data to analyze international debt. The dataset contains countries name, countries code, indicator_name which specifies the reason of taking the debt, 
 indicator_code which symbolizes the category of these debts, and the amount of debt in USD. 
